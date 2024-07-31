@@ -1,6 +1,6 @@
 ---
 banner: "![[Waterdeep_MidwinterFestival.jpg]]"
-banner_y: 0.365
+banner_y: 0.36
 ---
 
 ### The Midwinter Festival
