@@ -187,6 +187,8 @@ a {
 
     & .sidebar.left {
       left: 50;
+	  opacity: 1;
+	  background: none;
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
