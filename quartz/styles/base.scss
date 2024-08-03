@@ -167,7 +167,7 @@ a {
       flex-direction: column;
       gap: 2rem;
       top: 0;
-      width: 250px;
+      width: 500px;
       margin-top: $topSpacing;
       box-sizing: border-box;
       padding: 0 4rem;
@@ -186,7 +186,7 @@ a {
     }
 
     & .sidebar.left {
-      left: 0;
+      left: 50;
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
@@ -194,7 +194,7 @@ a {
     }
 
     & .sidebar.right {
-      right: calc(calc(100vw - $pageWidth) / 2 - 250px);
+      right: 50;
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
