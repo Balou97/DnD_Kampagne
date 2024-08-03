@@ -179,6 +179,10 @@ a {
         width: initial;
         margin-top: 2rem;
       }
+	  
+	  // Disable any fading effect
+      background: none; // Remove any gradient
+      opacity: 1; // Ensure full opacity
     }
 
     & .sidebar.left {
