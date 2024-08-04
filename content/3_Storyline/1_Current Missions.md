@@ -11,5 +11,6 @@
 ## Percival´s Story
 
 ## Uzgamon Quest
-- During the combat with Tatyana, FEND signed a contract with the Devil Uzgamon to unlock the full power of the mechanical Eye. In return he pledged himself to help Uzgamon steal a Soul, that's sealed inside a Jar from the Nine hells.
+- During the combat with Tatyana, FEND signed a contract with the Devil Uzgamon to unlock the full power of the mechanical Eye. In return he pledged himself to steal a Soul for Uzgamon, that's sealed inside a Jar and stored safely within the Nine hells.
+- Details follow
 
