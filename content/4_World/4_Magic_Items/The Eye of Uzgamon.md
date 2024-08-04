@@ -35,7 +35,7 @@ Once donned, the Eye of Uzgamon cannot be removed by any known means, binding it
 
 > [!infobox]
 > # Arcane Armor
-> ![[Arcane Grapple Gauntlet.jpg|cover hssmall]]
+> ![[Arcane_Armor.jpeg|cover hssmall]]
 #### Arcane Armor
 You can use a bonus action to activate its magical properties. When activated, you gain the following benefits for 10 minutes:
 
