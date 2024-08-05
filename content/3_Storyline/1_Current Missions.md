@@ -5,10 +5,17 @@
 - The group is trying to figure out who is the real enemy.
 
 # Side Quests
+## FEND´s Story
+- **_completed_**
+
+## Jastor´s Story
+- **_completed_**
+
 ## Kahani´s Story
 - Kahani meets some of the Orcs that raided his home tribe when he was a little hatchling.
 
 ## Percival´s Story
+- coming soon
 
 ## Uzgamon Quest
 - During the combat with Tatyana, FEND signed a contract with the Devil Uzgamon to unlock the full power of the mechanical Eye. In return he pledged himself to steal a Soul for Uzgamon, that's sealed inside a Jar and stored safely within the Nine hells.
