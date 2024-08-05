@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Campaign Website
 ---
 
 This is the starting page for the D&D Campaign. Check out the individual chapters:
