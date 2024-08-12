@@ -19,6 +19,7 @@
 > Class | Bard |
 > # Companion - 
 > ![[Snail_1.jpg|cover hsmedium]]
+>  ![[Snail_2.jpg|cover hsmedium]]
 
 
 # `=this.file.name`

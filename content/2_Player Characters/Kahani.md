@@ -41,6 +41,5 @@ In the unforgiving jungle environment teeming with threats, Kahani learned to su
 > Name |  Rarity | Attunement | Active |
 > ---|---|---| ---|
 > [[Circlet of Wild Elements]] | Rare | Yes | + |
-> [[Screaming Needle]] | Very Rare | Yes | + |
 > [[cloak-of-the-bat]] | Rare | Yes | + |
-> [[slippers-of-spider-climbing]] | Rare |  Yes | - |
+> [[slippers-of-spider-climbing]] | Rare |  Yes | + |

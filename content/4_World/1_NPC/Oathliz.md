@@ -28,3 +28,5 @@
 Oathliz is the Commander of the Forces of Springwater and member of the proud Order of the Silver Dragon. In the name of Bahamut he is trying to do good in this world.
 
 ---
+> ![[Oathliz_2.jpeg]]
+> [[Oathliz_2.jpeg|Show To Players]]

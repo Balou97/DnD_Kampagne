@@ -9,7 +9,8 @@ banner_y: 0.2
 | [[Franziskus]] | Yes |
 | [[Kahani]] | Yes |
 | [[Jastor Gallywix]] | Yes |
-| [[Hans Dietrich]] | Yes |
 | [[Percival Dragonheart]] | Yes |
+| [[Zephir Voidblade]] | Yes |
 | [[Delondrus Doondrum]]  | No |
 | [[Jhalrak van Durn]] | No |
+| [[Hans Dietrich]] | No |

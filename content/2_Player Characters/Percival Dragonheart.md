@@ -49,5 +49,6 @@ Now, Percival is driven by the desire to lift his family from their downfall. He
 > ## Current Magic Items
 > Name |  Rarity | Attunement | Active |
 > ---|---|---| ---|
-> [[Astral Shard]] |  Rare | Yes |
-> [[Dragontooth Dagger]] | Rare |  No |
+> [[Astral Shard]] |  Rare | Yes |+ |
+> [[Dragontooth Dagger]] | Rare |  No |+ |
+> [[Screaming Needle]] | Very Rare | Yes | + |
