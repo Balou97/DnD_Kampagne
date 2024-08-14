@@ -1,7 +1,7 @@
 > [!infobox]
 > # `=this.file.name`
-> ![[4_World/Assets/ImagePlaceholder.jpg|cover hsmedium]]
-> [[4_World/Assets/PC/ImagePlaceholder.jpg|Show To Players]]
+> ![[Percival Dragonheart.jpeg|cover hsmedium]]
+> [[Percival Dragonheart.jpeg|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
