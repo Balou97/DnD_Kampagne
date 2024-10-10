@@ -5,7 +5,7 @@
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Title | Sargent |
+> Title | Sergeant |
 > Gender | Male |
 > Race | Dragonborn |
 > Age | 17 |

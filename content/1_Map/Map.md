@@ -12,3 +12,4 @@ defaultZoom: 9
 unit: feet
 darkMode: false
 ```
+![[World Map.jpg]]
