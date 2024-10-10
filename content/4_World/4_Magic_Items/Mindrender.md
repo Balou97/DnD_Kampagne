@@ -5,7 +5,7 @@
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Type | Great Sword |
+> Type | Longsword |
 > Rarity | Very Rare |
 > Attunement | Yes |
 > Level | +1 |

@@ -25,6 +25,6 @@
 ## Profile
 
 **Description:** 
-Cormac was the Commander of the City Watch in Waterdeep and a close friend to Franziskus. During the Attack on Waterdeep he fought against the army of the dead sent by Strahd von Zarovich and lost his life. His signature weapon Bloodbane, a bloodred Halberd is now in the hands of Franziskus to seek revenge.
+Cormac was the Commander of the City Watch in [[Waterdeep]] and a close friend to [[Franziskus]]. During the Attack on Waterdeep he fought against the army of the dead sent by [[Strahd von Zarovich]] and lost his life. His signature weapon [[Bloodbane]], a bloodred Halberd is now in the hands of Franziskus to seek revenge.
 
 ---

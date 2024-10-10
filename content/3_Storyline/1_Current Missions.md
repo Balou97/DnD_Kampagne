@@ -4,7 +4,9 @@
 - A great battle is imminent. Strahd leads his army of undead towards Waterdeep. The kingdom of Lemuria is currently assembling its forces and marching to meet Strahd.
 - The group is trying to figure out who is the real enemy.
 - The group had their first Encounter with Zephyr Solvyrth and begin to think that theres a third party behind all this evil plans.
-- After speaking with Laeral Silverhand they got an audience with the King himself, King Arcturus XVI
+- After speaking with Laeral Silverhand they got an audience with the King himself, King Arcturus XIII
+- The Party paid the King a visit and found out that he is not really himself. He is strongly influenced and in some way mindcontrolled by Dr. Dr. Jarvis.
+- Furthermore they found out that Dr. Dr. Jarvis is a loyal subordinate to Zephyr Solvyrth himself.
 
 # Side Quests
 ## FEND´s Story
@@ -23,6 +25,4 @@
 - bragging about his mission he spoiled some details and the Deam is heading towards Springwater
 
 ## Uzgamon Quest
-- During the combat with Tatyana, FEND signed a contract with the Devil Uzgamon to unlock the full power of the mechanical Eye. In return he pledged himself to steal a Soul for Uzgamon, that's sealed inside a Jar and stored safely within the Nine hells.
-- Details follow
-
+- The Group retrieved the Soul from Uzgamon and gave it back to him.

@@ -12,7 +12,7 @@ banner_y: 0.52
 > ---|---|
 > Type | Magic Shop |
 > Location | In Every big City |
-> Owner | Pumat Sol |
+> Owner | [[Pumat Sol]] |
 
 # `=this.file.name`
 ## Profile

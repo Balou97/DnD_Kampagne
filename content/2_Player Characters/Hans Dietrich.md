@@ -36,5 +36,4 @@
 > ## Current Magic Items
 > Name |  Rarity | Attunement | Active |
 > ---|---|---| ---|
-> [[ring-of-protection]] | Rare | Yes |
 > [[1-wand-of-the-war-mage]] | Uncommon | Yes |

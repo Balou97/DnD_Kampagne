@@ -25,6 +25,6 @@
 ## Profile
 
 **Description:** 
-Alden is a young and fresh Adventurer of the Thunderblades. Together with Arvid and Toruk he helped slaying the Thunderous Boar Gorthok near Amphail. Despite this victory they lost their Companion Lyra when they fought against the Frost wolves. After this quest they headed north towards Steelheim, where they rest and get ready for their next adventure.
+Alden is a young and fresh Adventurer of the Thunderblades. Together with [[Arvid]] and [[Toruk]] he helped slaying [[Gorthok the Thunder Boar.jpg| Gorthok the Thunder Boar]] near [[Amphail]]. Despite this victory they lost their Companion Lyra when they fought against the Frost wolves. After this quest they headed north towards [[Steelheim]], where they rest and get ready for their next adventure.
 
 ---

@@ -21,13 +21,13 @@ Within this enigmatic artifact resides a mysterious entity known as Uzgamon, a d
 Once donned, the Eye of Uzgamon cannot be removed by any known means, binding itself to its wearer indefinitely. Those who dare to wear this cursed item must navigate the unpredictable guidance of Uzgamon, whose true intentions remain shrouded in mystery and peril. As whispers of its power spread, so too do cautionary tales of those who succumb to its tantalizing promises and treacherous whispers.
 
 ## Powers
-#### Ethereal Eye:
+#### Arcane Eye:
 120ft. Truesight
 
 > [!infobox]
 > # Arcane Grapple Gauntlet
 > ![[Arcane Grapple Gauntlet.jpg|cover hssmall]]
-#### Ethereal Grapple Gauntlet
+#### Arcane Grapple Gauntlet
 **Grapple (Action):** You can fire the cable from the gauntlet to grapple an object or creature within 60 feet that you can see. Make a ranged spell attack using your spellcasting modifier. On a hit, the cable attaches securely, allowing you to pull the target towards you. Creatures can resist being pulled with a Strength saving throw (DC = 8 + your spellcasting modifier + your proficiency bonus). Objects can be pulled without a saving throw. The cable can grapple targets weighing up to 10 times your Strength score in pounds. 
 **Swing (Action):** If you have successfully grappled a target or if there is a suitable anchor point within 60 feet, you can swing through the air. Make an Acrobatics check (DC determined by the DM) to swing to another location.
 **Reel In (Bonus Action):** After grappling a target, you can use the gauntlet to pull it 10 feet closer to you with each pull.

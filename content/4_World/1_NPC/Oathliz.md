@@ -11,9 +11,9 @@
 > Age | 31 |
 > Location | Springwater |
 > Occupation | Soldier |
-> Faction | Order of the Silver Dragon |
+> Faction | [[Order of the Silver Dragon]] |
 > Faith | Bahamut |
-> Status | Alive |
+> Status | Dead |
 > ###### Additional Information
 > Type |  Stat |
 > ---|---|

@@ -25,6 +25,6 @@
 ## Profile
 
 **Description:** 
-Alastor Moody is a powerful wizard and a member of the bounty hunter guild called "The Guild". During a mission with his partner Declan he got captured and sent to prison in Waterdeep.
+Alastor Moody is a powerful wizard and a member of the bounty hunter guild called "The Guild". During a mission with his partner [[Declan]] he got captured and sent to prison in [[Waterdeep]].
 
 ---

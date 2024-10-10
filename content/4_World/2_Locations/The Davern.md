@@ -12,7 +12,7 @@ banner_y: 0.36
 > ---|---|
 > Type | Tavern |
 > Location | Waterdeep |
-> Owner | The Deam |
+> Owner | [[The Deam]] |
 
 # `=this.file.name`
 ## Profile

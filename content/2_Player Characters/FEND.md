@@ -44,6 +44,8 @@ I was built for the sole purpose of war. The kingdom that built me was overthrow
 > ## Current Magic Items
 > Name |  Rarity | Attunement | Active |
 > ---|---|---| ---|
-> [[The Eye of Uzgamon]] | Artefact  | Yes
-> [[wand-of-fireballs]] | Very Rare | Yes
-> [[The Ring of the Ravenqueen]] | Artefact | Yes
+> [[The Eye of Uzgamon]] | Artefact  | Yes | - |
+> [[The Ring of the Ravenqueen]] | Artefact | Yes | + |
+> [[dwarven-plate]] | Very Rare | No | + |
+> [[ring-of-protection]] | Rare | Yes | + |
+> [[wand-of-fireballs]] | Very Rare | Yes | + (Alan)|

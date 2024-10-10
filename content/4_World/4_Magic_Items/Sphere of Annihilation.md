@@ -5,10 +5,10 @@
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Type |  |
-> Rarity |  |
-> Attunement |  |
-> Level |  |
+> Type | Wondrous Item |
+> Rarity | Legendary |
+> Attunement | No |
+> Level | - |
 
 # `=this.file.name`
 ## Profile
@@ -25,4 +25,12 @@ This 2-foot-diameter black sphere is a tear in the fabric of the multiverse, sur
 - **Immediate Contact:** Upon first being touched by the sphere, the creature takes 1D4 x 10 force damage. Additionally, they begin to be drawn towards the sphere and are [[conditions|incapacitated]] until they no longer touch the sphere.
     
 - **Continued Threat:** On each subsequent turn that the creature remains in contact with the sphere, they must make a DC 22 Constitution saving throw. On a failed save, they take an additional 1D4 x 10 force damage and are pulled further into the sphere’s gravitational pull. On a successful Constitution saving throw, the creature can escape the sphere’s immediate grasp, but not without dire consequences. Parts of their body may be irreparably damaged or torn away by the sphere’s annihilating force.
+	- Everytime a creature takes damage from the Sphere Roll **1D4**
+		- 1: The Left Arm gets ripped off (Disadvantage)
+		- 2: The Left Leg gets ripped off (Speed Halved)
+		- 3: The Right Arms gets ripped off (Disadvantage)
+		- 4: The Right Leg gets Ripped off (Speed Halved)
+	- After losing a limb roll a Constitution Saving Throw **DC 20** or fall unconscious from the shock.
+**Magic Nullification:** The gravity of the Sphere of Annihilation is so immense that it disrupts and nullifies the Weave of magic. Spells and magical effects cannot function within a **5-foot radius** of the sphere.
+	- Exceptions to this are planar portals and the magic caused by a Wish or Divine Intervention
 ---

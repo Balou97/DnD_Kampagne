@@ -17,9 +17,13 @@
 > ---|---|
 > Alignment | Chaotic Neutral |
 > Class | Bard |
-> # Companion - 
+> # **Companion**
 > ![[Snail_1.jpg|cover hsmedium]]
->  ![[Snail_2.jpg|cover hsmedium]]
+> ![[Snail_2.jpg|cover hsmedium]]
+> ![[Snail_3.png|cover hsmedium]]
+>  # **Slaves**
+> ![[Grog.png|cover hsmedium]]
+> ![[Garona.jpeg|cover hsmedium]]
 
 
 # `=this.file.name`

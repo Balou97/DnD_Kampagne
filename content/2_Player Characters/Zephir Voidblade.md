@@ -48,4 +48,6 @@ Now, he travels the multiverse as a wandering warrior, using his powers to help 
 > ## Current Magic Items
 > Name |  Rarity | Attunement | Active |
 > ---|---|---|---|
-> [[Mindrender]] | Very Rare | Yes |+ |
+> [[Mindrender]] | Very Rare | Yes | + |
+> [[ring-of-protection]] | Rare | Yes | + |
+> [[dwarven-plate]] | Very Rare | No | + |

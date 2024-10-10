@@ -1,7 +1,7 @@
 > [!infobox]
 > # `=this.file.name`
-> ![[Pumat Sol_2.jpeg]]
-> [[Pumat Sol_2.jpeg]]
+> ![[Pumat Sol_2.jpeg|cover hsmedium]]
+> [[Pumat Sol_2.jpeg|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|

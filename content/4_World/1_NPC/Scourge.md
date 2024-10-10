@@ -25,6 +25,6 @@
 ## Profile
 
 **Description:** 
-Scourge is a Kenku and a member of the Zhentarim. He is a professional assassin and until his last job he never failed due to his infiltration skills.
+Scourge is a Kenku and a member of the [[Zhentarim]]. He is a professional assassin and until his last job he never failed due to his infiltration skills.
 
 ---

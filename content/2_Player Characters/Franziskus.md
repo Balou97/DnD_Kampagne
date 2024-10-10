@@ -46,6 +46,6 @@ Now an Oath-breaker, Franziskus wanders around, haunted by memories of that trag
 > ## Current Magic Items
 > Name |  Rarity | Attunement | Active |
 > ---|---|---| ---|
-> [[Mug of Everflowing Ale]] | Rare | No
-> [[Bloodbane]] | Legendary | Yes
-> [[Armor of Strahd]] | Rare | No
+> [[Mug of Everflowing Ale]] | Rare | No | + |
+> [[Bloodbane]] | Legendary | Yes | + |
+> [[Armor of Strahd]] | Rare | No | + |

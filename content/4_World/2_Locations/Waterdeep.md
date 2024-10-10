@@ -12,7 +12,7 @@ banner_y: 0.46
 > ---|---|
 > Type | City |
 > Kingdom | Lemuria |
-> Leader | [[Laeral Silverhand|Lady Laeral Silverhand]] |
+> Leader | [[Laeral Silverhand]] |
 > Population | 175.000 |
 > Factions | Order of the Silver Dragon, Zhentarim, Harpers, Force Grey, Order of the Gauntlet, Xanathar Guild, The Guild, etc. |
 > ###### Additional Information
